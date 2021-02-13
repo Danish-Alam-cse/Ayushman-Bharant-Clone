@@ -1,0 +1,123 @@
+*{
+    margin:0;
+}
+.header{
+    width:93%;
+    height:80px;
+    background-color: rgb(255, 118, 0);
+    margin-left: 50px;
+}
+.header>.logo1{
+    width:7%;
+    height:auto;
+    float: left;
+    margin-left: 200px;
+    padding-top: 10px;
+}
+.header>.logo2{
+    width:5%;
+    height:auto;
+    float: left;
+    margin-left: 360px;
+}
+.header>.logo3{
+    width:7%;
+    height:auto;
+    float: right;
+    margin-right: 200px;
+     padding-top: 10px;
+}
+.header2{
+    width:93%;
+    height: 50px;
+    background-color:rgb(249, 233, 220);
+    margin-left: 50px;
+}
+.marq{
+    width:92.8%;
+    height: 49px;
+    background-color:rgb(255, 255, 255);
+    margin-left: 50px;
+    border:1px solid rgb(218, 213, 213);
+    border-top:0;
+    font-size: 20px;
+    font-weight: bolder;
+    line-height: 40px;
+}
+.hosbody{
+    width:93%;
+    height:300px;
+    background-color: rgba(173, 170, 170, 0.08);
+    margin-left: 50px;
+    margin-top: 20px;
+    border:1px solid #FF7600;
+}
+.hsearch{
+    width:98.5%;
+    height:30px;
+    margin-left: 10px;
+    background-color: #585553;
+    margin-top: 10px;
+    border-top:0;
+    border-right: 2px solid rgb(221, 221, 221);
+    border-left: 2px solid rgb(221, 221, 221);
+    border-bottom: 2px solid rgb(221, 221, 221);
+    font-size: 15px;
+    font-weight: 400;
+    border-radius: 3px;
+    text-align: center;
+    line-height: 25px;
+    color:#fff;
+    font-family: sans-serif;
+}
+.select1{
+    width:40%;
+    height:160px;
+    float:left;
+    margin-left: 280px;
+}
+.select2{
+    width:40%;
+    height:160px;
+    float:left;
+}
+.hname{
+    clear:both;
+    margin-left: 560px;
+    margin-top: 20px;
+}
+select{
+    width=60px;
+}
+.btn1{
+    margin-top: 10px;
+    margin-left: 640px;
+    width:7%;
+    height:40px;
+    background-color: green;
+    border:0;
+    border-radius: 10px;
+    color:#fff;
+}
+.btn2{
+    width:7%;
+    height:40px;
+    background-color: orange;
+    border:0;
+    border-radius: 10px;
+    color:#fff;
+    
+}
+h2{
+    text-align: center;
+    margin-top: 20px;
+}
+.footer{
+    width:100%;
+    height:30px;
+    background-color: rgb(88, 71, 66);
+    margin-top: 130px;
+    text-align: center;
+    color:#fff;
+    line-height: 30px;
+}

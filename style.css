@@ -1,0 +1,336 @@
+* {
+    margin: 0;
+}
+
+.header {
+    width: 100%;
+    height: 30px;
+    background-color: rgb(241, 241, 241);
+}
+
+.header > .flaglogo {
+    width: 2%;
+    height: auto;
+    margin-left: 60px;
+    padding-top: 2px;
+    float: left;
+}
+
+.header > span {
+    margin-left: 10px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.header > .btn {
+    margin-top: 3px;
+    float: right;
+    margin-right: 120px;
+    font-size: 12px;
+    font-weight: 200;
+    font-family: sans-serif;
+    border-left: 1px solid #EAEAEA;
+    border-right: 1px solid #EAEAEA;
+    line-height: 1.5;
+    border-bottom: 0;
+    background-color: rgb(241, 241, 241);
+    border-top: 0;
+}
+
+.header2 {
+    width: 100%;
+    height: 174px;
+    background-color: rgb(104, 154, 173);
+}
+
+.header2 > .emblemlogo {
+    width: 13%;
+    height: auto;
+    padding-top: 20px;
+    margin-left: 60px;
+    float: left;
+}
+
+.header2 > h2,
+p1 {
+    margin-top: 20px;
+    margin-left: 400px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: #fff;
+    font-weight: 700;
+    float: left;
+}
+
+.header2 > p1 {
+    margin-left: 300px;
+    line-height: 2px;
+}
+
+.header2 > .pmjaylogo {
+    width: 7%;
+    height: auto;
+    float: right;
+    margin-right: 40px;
+    margin-top: -40px;
+    margin-bottom: 10px;
+}
+
+.header2 > .navbar {
+    width: 100%;
+    height: 40px;
+    background-color: #fff;
+    clear: both;
+}
+
+ul {
+
+    list-style: none;
+}
+
+ul > li {
+    height: 40px;
+    float: left;
+    margin-left: 40px;
+    line-height: 40px;
+    font-size: 14px;
+    font-weight: 600;
+    display: block;
+    word-spacing: 2;
+}
+
+.eligible {
+    width: 7%;
+    height: 30px;
+    float: left;
+    margin-left: 500px;
+    border: 0;
+    border-radius: 5px;
+    background-color: orange;
+    color: #fff;
+    margin-top: 5px;
+}
+
+.find {
+    width: 7%;
+    height: 30px;
+    float: right;
+    margin-top: 5px;
+    
+    border: 0;
+    border-radius: 5px;
+    background-color: orange;
+    color: #fff;
+}
+
+.header2 > .marq {
+    width: 100%;
+    height: 22.4px;
+    background-color: #fff;
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 23.1px;
+}
+
+.ayushbody {
+    width: 100%;
+    height: 500px;
+    margin-top: 30px;
+
+}
+
+.ayushbody > .img {
+    width: 67%;
+    height: auto;
+    float: left;
+}
+
+.ayushbody > .bodyintro {
+    width: 33%;
+    height: 540px;
+    float: left;
+}
+
+.bodyintro > .intro1 {
+    width: 25%;
+    height: 50px;
+    background-color: rgb(104, 154, 173);
+    float: left;
+    color: #fff;
+    text-align: center;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 700;
+    line-height: 50px;
+}
+
+.intro2 {
+    width: 30%;
+    background-color: rgb(221, 221, 221);
+    height: 50px;
+    float: left;
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: center;
+}
+
+.intro3 {
+    width: 45%;
+    background-color: rgb(241, 241, 241);
+    height: 50px;
+    float: left;
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 700;
+    line-height: 50px;
+}
+
+.intro3 > e {
+    margin-left: 20px;
+}
+
+.bodyintro > p {
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 200;
+    padding: 20px 20px;
+    line-height: 22px;
+    margin-top: 20px;
+}
+
+.btn1 {
+    width: 20%;
+    height: 40px;
+    margin-left: 20px;
+    border-radius: 20px;
+    border: 0;
+    background-color: orange;
+    margin-top: -20px;
+    color: #fff;
+}
+
+marquee {
+    padding-top: 5px;
+}
+
+.footer {
+    width: 100%;
+    height: 0px;
+}
+
+.footer > .dashboard {
+    width: 100%;
+    height: 130px;
+    background-color: rgb(104, 154, 173);
+    margin-top: 8px;
+}
+
+.dashboard > .box1 {
+    width: 20%;
+    height: 130px;
+    float: left;
+    margin-top: -30px;
+    margin-left: 100px;
+    font-size: 28px;
+    color: #fff;
+}
+
+.dashboard > .box2 {
+    width: 21%;
+    height: 130px;
+    float: left;
+    margin-top: -30px;
+    margin-left: 20px;
+    font-size: 28px;
+    color: #fff;
+}
+
+.dashboard > .box3 {
+    width: 16%;
+    height: 130px;
+    float: left;
+    margin-top: -30px;
+    margin-left: 20px;
+    font-size: 28px;
+    color: #fff;
+}
+
+.dashboard > .box4 {
+    width: 10%;
+    height: 130px;
+    float: left;
+    margin-top: -30px;
+    margin-left: 20px;
+    font-size: 28px;
+    color: #fff;
+}
+
+.icon1 {
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    border: 2px solid rgb(255, 255, 255);
+    float: left;
+    margin-top: -15px;
+}
+
+.icon2 {
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    border: 2px solid rgb(255, 255, 255);
+    float: left;
+    margin-top: -15px;
+}
+
+.icon3 {
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    border: 2px solid rgb(255, 255, 255);
+    float: left;
+    margin-top: -15px;
+}
+
+.box1 > h6 {
+    font-size: 11px;
+    line-height: 15px;
+}
+
+.box1 > h1 {
+    font-size: 28px;
+    margin-top: 20px;
+}
+
+.box2 > h1 {
+    font-size: 28px;
+    margin-top: 30px;
+}
+
+.box2 > h4 {
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.box3 > h1 {
+    font-size: 28px;
+    margin-top: 30px;
+}
+
+.box3 > h4 {
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.box4 > h1 {
+    font-size: 28px;
+    margin-top: 30px;
+}
+
+.box4 > h4 {
+    font-size: 15px;
+    margin-top: 10px;
+}
